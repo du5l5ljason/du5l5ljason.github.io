@@ -2,11 +2,11 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
-title:               自得其乐
-tagline:             '支持中文'
+title:               户外的清水木鱼
+tagline:             '改变'
 description:         ''
 url:                 http://du5l5ljason.github.io
 baseurl:             ''
@@ -14,9 +14,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Jason Su
+  name:              Jason Du
   url:               https://twitter.com/du5l5ljason
-  email:             tfang.du@gmail.com
+  email:             tfang.du@hotmail.com
 
 # Custom vars
 version:             1.0.0
