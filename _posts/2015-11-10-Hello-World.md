@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Hello, World!"
+author: 清水木鱼
+tag:
+    - 简介
 published: true
 ---
 
