@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "TD Blog",
+  "short_name": "TD Blog",
+  "description": "TD in Outdoor",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

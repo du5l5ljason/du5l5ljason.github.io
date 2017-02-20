@@ -1,10 +1,3 @@
-#Hux Blog
-
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
-
-
 
 ## Boilerplate (beta)
 
@@ -13,8 +6,6 @@ Want to clone a boilerplate instead of my buzz blog? Here comes this!
 ```
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 ```
-
-**[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
 
 
 ## Porting 
@@ -165,7 +156,7 @@ Seeing more information may be necessary for you to display, from V1.1, a clean,
 # Sidebar settings
 sidebar: true
 sidebar-about-description: "your description here"
-sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
+sidebar-avatar: /img/avatar-td.jpg     # use absolute URL.
 ```
 
 We default support *[Featured Tags](#featured-tags)*, *[Mini About Me](#mini-about-me)* and *[Friends](#friends)* these three modules and you can add your own. The sidebar is naturally responsive and would be push to bottom in a small screen size (`<= 992px`, according to [Bootstarp Grid System](http://getbootstrap.com/css/#grid))  
@@ -313,7 +304,7 @@ For other circumstances, check out existing issues or create a new one!
 ## License
 
 Apache License 2.0.
-Copyright (c) 2015-2016 Huxpro
+Copyright (c) 2016-2017 清水木鱼
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+TD Blog is derived from [Hux Blog](https://github.com/Huxpro/huxpro.github.io) and [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
