@@ -1,4 +1,14 @@
-﻿
+---
+layout: post
+title: "Half Dome Hike"
+author: 清水木鱼
+tag:
+    - Yosemite
+    - Half Dome
+    - Hiking
+published: true
+---
+
 不知不觉中，从**优胜美地**回来已经四天了。小腿肌肉的隐隐作痛，依然提醒着自己，**Half Dome**的风景依然历历在目。趁着记忆仍然新鲜，我决定写点什么纪念这一次的户外徒步。
 
 8月份，算是旅游的旺季，却不是优胜美地最好的季节。地中海气候带的夏天干旱少雨，加上今年厄尔尼诺年的大旱，标志性的Yosemite Fall已经听不到一点水滴的声音。
